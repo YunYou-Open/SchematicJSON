@@ -18,7 +18,7 @@
 ## 安装使用
 
 ```bash
-git clone https://github.com/yourname/minecraft-schematic-converter.git
+git clone https://github.com/YunYou-Open/SchematicJSON.git
 cd SchematicJSON
 go run main.go
 
